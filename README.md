@@ -1,9 +1,9 @@
 # ngx-notify
 
-[![Build Status](https://travis-ci.org/artemsky/ng-snotify.svg?branch=master)](https://travis-ci.org/artemsky/ng-snotify)
-[![NPM Version](https://img.shields.io/npm/v/ng-snotify.svg)](https://www.npmjs.com/package/ng-snotify)
-[![NPM Downloads](https://img.shields.io/npm/dt/ng-snotify.svg)](https://www.npmjs.com/package/ng-snotify)
-[![Dev dependencies status list](https://david-dm.org/artemsky/ng-snotify/dev-status.svg)](https://david-dm.org/artemsky/ng-snotify?type=dev)
+[![Build Status](https://travis-ci.org/iraecio/ng-snotify.svg?branch=master)](https://travis-ci.org/iraecio/ngx-notify)
+[![NPM Version](https://img.shields.io/npm/v/ngx-notify.svg)](https://www.npmjs.com/package/ngx-notify)
+[![NPM Downloads](https://img.shields.io/npm/dt/ngx-notify.svg)](https://www.npmjs.com/package/ngx-notify)
+[![Dev dependencies status list](https://david-dm.org/iraecio/ngx-notify/dev-status.svg)](https://david-dm.org/iraecio/ngx-notify?type=dev)
 
 ## Example
 https://iraecio.github.io/ngx-notify/
@@ -24,11 +24,8 @@ https://iraecio.github.io/ngx-notify/
 
 ## Installation
 
-###### NPM 5
+###### NPM
 `npm install ngx-notify`
-
-###### yarn
-`yarn add ngx-notify`
 
 ## Documentation and Examples
 
