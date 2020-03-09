@@ -2,8 +2,7 @@
 
 [![Build Status](https://travis-ci.org/iraecio/ng-snotify.svg?branch=master)](https://travis-ci.org/iraecio/ngx-notify)
 [![NPM Version](https://img.shields.io/npm/v/ngx-notify.svg)](https://www.npmjs.com/package/ngx-notify)
-[![NPM Downloads](https://img.shields.io/npm/dt/ngx-notify.svg)](https://www.npmjs.com/package/ngx-notify)
-[![Dev dependencies status list](https://david-dm.org/iraecio/ngx-notify/dev-status.svg)](https://david-dm.org/iraecio/ngx-notify?type=dev)
+[![NPM Downloads](https://img.shields.io/npm/dt/ngx-notify.svg)](https://www.npmjs.com/package/ngx-notify) 
 
 ## Example
 https://iraecio.github.io/ngx-notify/

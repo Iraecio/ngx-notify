@@ -26,10 +26,10 @@
     "docs:deploy": "bash ./update-docs.sh",
     "prepare": "npm run build"
   },
-  "homepage": "https://artemsky.github.io/ng-snotify",
+  "homepage": "https://iraecio.github.io/ngx-notify",
   "repository": {
     "type": "git",
-    "url": "https://github.com/artemsky/ng-snotify"
+    "url": "https://github.com/iraecio/ngx-notify"
   },
   "authors": [
     {
@@ -68,7 +68,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://artemsky.github.io/ng-snotify/issues"
+    "url": "https://iraecio.github.io/ngx-notify/issues"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.900.5",
